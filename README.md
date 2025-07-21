@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a result-driven professional with 3+ years of experience in leading IT service-based companies. My expertise lies in designing and implementing Microservice Architecture using NodeJS and JavaScript with Azure Function Apps and Webapps. I have hands-on experience in implementing solutions using Azure Cloud Services such as Service Bus, Event Hubs, Event Grids, Application Insights, and more.
+I am a result-driven professional with 4+ years of experience in leading IT service-based companies. My expertise lies in designing and implementing Microservice Architecture using NodeJS and JavaScript with Azure Function Apps and Webapps. I have hands-on experience in implementing solutions using Azure Cloud Services such as Service Bus, Event Hubs, Event Grids, Application Insights, and more.
 
 Additionally, I have excellent experience in using CommereceTools resources (API & SDK) to provide solutions to clients. I have experience in Test Driven Development using Jest, Nock, and Sonarcloud, ensuring software quality and robustness.
 
